@@ -380,7 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project BY ** M.ibrahim 
+Project BY  M.ibrahim 
 - Email: m.ibkhan@icloud.com
 - LinkedIn: http://www.linkedin.com/in/muhammad-ibrahim-475832279
 - GitHub: [@ibrahim-khan-12](https://github.com/ibrahim-khan12)
